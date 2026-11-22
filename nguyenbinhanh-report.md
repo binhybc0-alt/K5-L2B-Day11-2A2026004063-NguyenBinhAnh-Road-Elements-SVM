@@ -78,6 +78,8 @@ Xin coach/lead trả lời giúp: **ở A05 và A06 có thật sự không có v
 Cả hai file: `annotations.xml` nằm ngay thư mục gốc zip, không kèm ảnh (`contains_images: false` trong manifest), mở lại được bằng `road_check lint` với 20 ảnh, 0 ảnh trống, 20/20 ảnh đủ 4 tag.
 
 ## 6. Ảnh chụp màn hình
+> Bốn ảnh dưới đây nằm trong thư mục `screenshots/` của repo. Xem trực tiếp trên GitHub: [báo cáo này](https://github.com/binhybc0-alt/K5-L2B-Day11-2A2026004063-NguyenBinhAnh-Road-Elements-SVM/blob/main/nguyenbinhanh-report.md) · [thư mục screenshots/](https://github.com/binhybc0-alt/K5-L2B-Day11-2A2026004063-NguyenBinhAnh-Road-Elements-SVM/tree/main/screenshots)
+
 1. Tab Labels của project: `![Tab Labels](screenshots/labels.png)`
 2. Một ảnh camera trước đã gán đủ (làn, vùng lái, đèn/biển): `![Front sample](screenshots/front_sample.png)`
 3. Một ảnh fisheye đã gán, phóng to đoạn polyline cong: `![Fisheye polyline](screenshots/fisheye_polyline.png)`
